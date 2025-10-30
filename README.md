@@ -31,7 +31,7 @@ I love building things that make people’s digital lives simpler and more beaut
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/RedAmbrose" target="_blank"><img src="https://img.shields.io/badge/GitHub-RedAmbrose-black?style=flat-square&logo=github" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:tangtangpx92@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
